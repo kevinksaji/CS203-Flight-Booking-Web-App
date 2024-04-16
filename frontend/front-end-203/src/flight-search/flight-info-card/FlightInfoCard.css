@@ -1,0 +1,35 @@
+/* FlightInfoCard.css */
+
+/* Flight Information Card Container */
+.flight-info-card {
+    display: flex;
+    flex-direction: row;
+    background-color: #143965; /* Updated background color to blue */
+    border-radius: 8px;
+    width: 50rem;
+    padding: 20px;
+
+
+    
+  }
+  
+  /* Section Styles */
+  .section {
+    flex: 1;
+    text-align: center;
+    color: white; /* Font color set to white */
+    padding: 10px;
+    margin-top: 1.75rem;
+    
+  }
+  
+  /* Divider Style (Line) */
+  .divider {
+    width: 100%;
+    height: 1px;
+    background-color: white; /* Divider color set to white */
+
+    
+  }
+  
+  

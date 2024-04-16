@@ -1,0 +1,15 @@
+.payment-content {
+    display: flex;
+    justify-content: space-between; /* Adds space between the two child divs if there's extra space */
+    align-items: flex-start; /* Aligns items to the top of the container */
+    gap: 2rem; /* Optional: adds some space between the two child divs */
+}
+
+.payment-form {
+    flex: 1;
+}
+
+.booking-summary {
+    flex: 1; 
+    margin-top: 4rem;
+}

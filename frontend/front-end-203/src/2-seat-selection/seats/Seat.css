@@ -1,0 +1,9 @@
+#selected {
+    background-color: grey;
+    pointer-events: none;
+}
+
+#chosen-by-user {
+    background-color: #FF9B00;
+
+}

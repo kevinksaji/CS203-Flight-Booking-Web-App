@@ -1,0 +1,16 @@
+/* Navigation bar styles */
+.navbar {
+  
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #143965; /* Blue background */
+  padding: 20px, 20px;
+  height: 70px;
+  z-index: 4;
+  
+}
+
+/* Add more styling as needed */
+
+

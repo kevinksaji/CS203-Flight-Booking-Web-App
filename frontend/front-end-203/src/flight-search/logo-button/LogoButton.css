@@ -1,0 +1,19 @@
+/* logo button styles */
+.logo-button {
+    background-color: transparent; /* Transparent background */
+    color: #fff;
+    font-family: 'Merriweather Sans';
+    font-size: 25px;
+    font-style: bold;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 20px;
+    transition: background-color 0.3s, color 0.3s; /* Transition for background-color and color */
+  }
+  
+  /* Hover effect - white background revealed */
+  .logo-button.hovered {
+    color: orange; /* Change text color on hover */
+  }
+  
